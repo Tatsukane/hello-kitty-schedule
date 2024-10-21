@@ -1,0 +1,2 @@
+@Created by Tatsukane
+-Muốn đổi hình nền chỉ cần đổi tên tấm ảnh mình muốn thành 'background.png' rồi đưa vào folder code gốc là xong
